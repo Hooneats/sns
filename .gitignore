@@ -324,3 +324,8 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,intellij+all,gradle,java,intellij+iml
+
+
+# add Front
+**/front-end/node_modules/**
+**/front-end/static/**
